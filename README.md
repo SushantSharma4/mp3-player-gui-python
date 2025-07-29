@@ -4,9 +4,10 @@ A simple MP3 Player built using Python's Tkinter for GUI and Pygame for audio pl
 
 ## 📸 Screenshot
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="600" height="431" alt="image" src="https://github.com/user-attachments/assets/2b766866-e7c3-4904-9b61-84c72425155b" />
+<img width="640" height="537" alt="image" src="https://github.com/user-attachments/assets/3c00807a-4822-4726-b69e-01681ba3de0c" />
+<img width="657" height="431" alt="image" src="https://github.com/user-attachments/assets/b8f538d5-f388-4b97-a57d-e870f84ef6ea" />
+
 
 ## 💡 Features
 
